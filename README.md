@@ -55,4 +55,4 @@ As previously mentioned, this algorithm is based on the one already developed by
 - Haniel Campos 
 
 # License 
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
+This project is licensed under the MIT License - see the [LICENSE.md](docs/README.md) file for details
