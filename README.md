@@ -55,4 +55,4 @@ As previously mentioned, this algorithm is based on the one already developed by
 - Haniel Campos 
 
 # License 
-This project is licensed under the MIT License - see the [LICENSE](docs/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/HanCamp/Stock-Market-RNN-Genetic-Algorithm/blob/master/LICENSE) file for details
